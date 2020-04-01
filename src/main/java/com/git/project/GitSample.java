@@ -6,6 +6,8 @@ public class GitSample {
 		
 		System.out.println("This is a sample git project....");
 		
+		System.out.println("This is my second commit.");
+		
 	}
 
 }
